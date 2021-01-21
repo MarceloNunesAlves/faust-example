@@ -11,9 +11,9 @@ docker-compose up -d
 
 Para este teste simples é importante que o ambiente do python possua todos os pacotes necessários.
 
-Para criar um ambiente python com os pacotes necessários.
+Para criar um ambiente python com os pacotes necessários siga os passos abaixo:
 
-Criar o ambiente no Anaconda
+1. Crie o ambiente no Anaconda
 
 ```
 conda create -n faust_env
