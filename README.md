@@ -32,8 +32,14 @@ pip install -r requirements.txt
 ##Execução do projeto
 
 - Execução do exemplo do projeto
+
 ```
 python main-app.py worker
+```
+
+Executando o envio da mensagem para o Kafka
+```
+curl -X POST -H 'Content-Type: application/json' "http://localhost:6066/putKafka/?nome=Marcelo&idade=35"
 ```
 
 - Execução do exemplo do site
