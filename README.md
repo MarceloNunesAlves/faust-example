@@ -21,7 +21,7 @@ conda activate faust_env
 conda install python==3.8
 ```
 
-##Configuração
+## Configuração
 
 Para executar o simulador é necessario instalar os pre-requisitos.
 
@@ -29,7 +29,7 @@ Para executar o simulador é necessario instalar os pre-requisitos.
 pip install -r requirements.txt
 ```
 
-##Execução do projeto
+## Execução do projeto
 
 - Execução do exemplo do projeto
 
